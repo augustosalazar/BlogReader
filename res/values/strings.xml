@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlogReader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_items">No Items to Display</string>
+    
+    <string-array name="android_names">
+        <item >Item1</item>
+        <item >Item2</item>
+        <item >Item3</item>
+        <item >Item4</item>
+        
+    </string-array>
+    <string name="erro_titile">Opps Sorry</string>
+    <string name="error_msg">Sorry, there was an error</string>
+
+</resources>
